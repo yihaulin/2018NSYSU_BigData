@@ -1,2 +1,2 @@
 【Homework 3】
-![img]https://i.imgur.com/yG2GXxE.jpg
+![img] https://i.imgur.com/yG2GXxE
